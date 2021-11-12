@@ -1,11 +1,11 @@
-## Hello
+**[en-us]**
 
 I use this space to share some of my own projects and they help me,
 i like to think that this may be the initial stage that is missing
 in other people's lives and that it can help them, as well as many
 other people helped me.
 
-## Oi
+**[pt-br]**
 
 Uso esse espaço para compartilhar alguns projetos próprios e me ajudam,
 gosto de pensar que isso pode ser a etapa inicial que falta na vida de 
