@@ -1,5 +1,5 @@
 # Security
 
-Please report security breaches to [security.flaverton.com](https://security.flaverton.com).
+Please report security breaches to [security.droposhado.org](https://security.droposhado.org).
 
 Thank you very much for your report.
